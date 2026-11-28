@@ -30,21 +30,16 @@ from_low_level_to_high_level: ESP32 firmware -> micro-ROS -> ROS 2 -> robot lear
 
 ### 🎬 Project demos
 
-**🤖 Mobile robots**
-
-<p align="left">
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/bitbot2/README.md#1-draw-a-path-opencv--aruco"><img src="assets/thumbnails/bitbot2_opencv.jpg" width="32%" alt="BITBot2: draw a path, the robot follows it" /></a>
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/bitbot2/README.md#2-autonomous-navigation-nav2-in-gazebo"><img src="assets/thumbnails/bitbot2_nav2.jpg" width="32%" alt="BITBot2: SLAM + Nav2 autonomous navigation" /></a>
+<p align="center">
+  <a href="https://github.com/kk-Dollar/Projects_demo"><img src="assets/demo_carousel.svg" width="100%" alt="Project demos carousel: BITBot2, BITBot2 Nav2, Humanoid Arm, Car Painting Cell" /></a>
 </p>
 
-**🦾 Manipulation**
-
-<p align="left">
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/humanoid_arm/README.md"><img src="assets/thumbnails/humanoid_arm.jpg" width="32%" alt="Humanoid Arm: vision-guided pick, place and handover" /></a>
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/car_painting_cell/README.md"><img src="assets/thumbnails/car_painting_cell.jpg" width="32%" alt="Car Painting Cell: UR10 on a gantry painting a car" /></a>
+<p align="center">
+  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/bitbot2/README.md#1-draw-a-path-opencv--aruco"><img src="https://img.shields.io/badge/▶_BITBot2-Path_following-1f2937?style=for-the-badge" /></a>
+  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/bitbot2/README.md#2-autonomous-navigation-nav2-in-gazebo"><img src="https://img.shields.io/badge/▶_BITBot2-Nav2-1f2937?style=for-the-badge" /></a>
+  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/humanoid_arm/README.md"><img src="https://img.shields.io/badge/▶_Humanoid_Arm-Handover-1f2937?style=for-the-badge" /></a>
+  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/car_painting_cell/README.md"><img src="https://img.shields.io/badge/▶_Car_Painting-Cell-1f2937?style=for-the-badge" /></a>
 </p>
-
-<p align="center"><a href="https://github.com/kk-Dollar/Projects_demo"><b>▶ All demos</b></a></p>
 
 ### 🧭 What I work on
 
