@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishna-pandit-614b2631a/"><img src="https://img.shields.io/badge/LinkedIn-Krishna_Pandit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:krishna.pandit.career@gmail.com"><img src="https://img.shields.io/badge/Email-krishna.pandit.career-0f2027?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=krishna.pandit.career@gmail.com"><img src="https://img.shields.io/badge/Gmail-krishna.pandit.career%40gmail.com-0f2027?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: krishna.pandit.career@gmail.com" /></a>
   <img src="https://komarev.com/ghpvc/?username=kk-Dollar&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 </p>
 
