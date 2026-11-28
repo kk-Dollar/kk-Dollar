@@ -19,6 +19,7 @@ CARDS = [
     "thumbnails/bitbot2_nav2.jpg",
     "thumbnails/humanoid_arm.jpg",
     "thumbnails/car_painting_cell.jpg",
+    "thumbnails/aloha_act.jpg",
 ]
 OUT = ROOT / "demo_carousel.svg"
 

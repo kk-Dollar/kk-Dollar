@@ -31,7 +31,7 @@ from_low_level_to_high_level: ESP32 firmware -> micro-ROS -> ROS 2 -> robot lear
 ### 🎬 Project demos
 
 <p align="center">
-  <a href="https://kk-dollar.github.io/Projects_demo/"><img src="assets/demo_carousel.svg" width="100%" alt="Project demos carousel: BITBot2, BITBot2 Nav2, Humanoid Arm, Car Painting Cell" /></a>
+  <a href="https://kk-dollar.github.io/Projects_demo/"><img src="assets/demo_carousel.svg" width="100%" alt="Project demos carousel: BITBot2, BITBot2 Nav2, Humanoid Arm, Car Painting Cell, ALOHA ACT" /></a>
 </p>
 
 <p align="center">
@@ -43,6 +43,7 @@ from_low_level_to_high_level: ESP32 firmware -> micro-ROS -> ROS 2 -> robot lear
   <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/bitbot2/README.md#2-autonomous-navigation-nav2-in-gazebo"><img src="https://img.shields.io/badge/▶_BITBot2-Nav2-1f2937?style=for-the-badge" /></a>
   <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/humanoid_arm/README.md"><img src="https://img.shields.io/badge/▶_Humanoid_Arm-Handover-1f2937?style=for-the-badge" /></a>
   <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/car_painting_cell/README.md"><img src="https://img.shields.io/badge/▶_Car_Painting-Cell-1f2937?style=for-the-badge" /></a>
+  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/aloha_act/README.md"><img src="https://img.shields.io/badge/▶_ALOHA-ACT-1f2937?style=for-the-badge" /></a>
 </p>
 
 ### 🧭 What I work on
