@@ -31,7 +31,11 @@ from_low_level_to_high_level: ESP32 firmware -> micro-ROS -> ROS 2 -> robot lear
 ### 🎬 Project demos
 
 <p align="center">
-  <a href="https://github.com/kk-Dollar/Projects_demo"><img src="assets/demo_carousel.svg" width="100%" alt="Project demos carousel: BITBot2, BITBot2 Nav2, Humanoid Arm, Car Painting Cell" /></a>
+  <a href="https://kk-dollar.github.io/Projects_demo/"><img src="assets/demo_carousel.svg" width="100%" alt="Project demos carousel: BITBot2, BITBot2 Nav2, Humanoid Arm, Car Painting Cell" /></a>
+</p>
+
+<p align="center">
+  <a href="https://kk-dollar.github.io/Projects_demo/"><img src="https://img.shields.io/badge/▶_Open_interactive_demos-%E2%86%90_swipe_%E2%86%92-4FC3F7?style=for-the-badge&labelColor=0b0f17" alt="Open interactive demos" /></a>
 </p>
 
 <p align="center">
