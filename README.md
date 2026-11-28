@@ -38,15 +38,6 @@ from_low_level_to_high_level: ESP32 firmware -> micro-ROS -> ROS 2 -> robot lear
   <a href="https://kk-dollar.github.io/Projects_demo/"><img src="https://img.shields.io/badge/▶_Open_interactive_demos-%E2%86%90_swipe_%E2%86%92-4FC3F7?style=for-the-badge&labelColor=0b0f17" alt="Open interactive demos" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/bitbot2/README.md#1-draw-a-path-opencv--aruco"><img src="https://img.shields.io/badge/▶_BITBot2-Path_following-1f2937?style=for-the-badge" /></a>
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/bitbot2/README.md#2-autonomous-navigation-nav2-in-gazebo"><img src="https://img.shields.io/badge/▶_BITBot2-Nav2-1f2937?style=for-the-badge" /></a>
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/humanoid_arm/README.md"><img src="https://img.shields.io/badge/▶_Humanoid_Arm-Handover-1f2937?style=for-the-badge" /></a>
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/car_painting_cell/README.md"><img src="https://img.shields.io/badge/▶_Car_Painting-Cell-1f2937?style=for-the-badge" /></a>
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/servox/README.md"><img src="https://img.shields.io/badge/▶_ServoX-MoveIt_2-1f2937?style=for-the-badge" /></a>
-  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/aloha_act/README.md"><img src="https://img.shields.io/badge/▶_ALOHA-ACT-1f2937?style=for-the-badge" /></a>
-</p>
-
 ### 🧭 What I work on
 
 | | Area | What I do |
