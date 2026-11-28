@@ -63,7 +63,7 @@ from_low_level_to_high_level: ESP32 firmware -> micro-ROS -> ROS 2 -> robot lear
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ros,py,cpp,c,pytorch,opencv,linux,ubuntu,cmake,docker,git,arduino,raspberrypi,js,nodejs,vscode&perline=8&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ros,py,cpp,c,pytorch,opencv,linux,ubuntu,cmake,docker,git,arduino,js,nodejs,vscode&perline=8&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
