@@ -28,6 +28,15 @@ exploring: [Vision-Language-Action models, Reinforcement Learning, Imitation Lea
 from_low_level_to_high_level: ESP32 firmware -> micro-ROS -> ROS 2 -> robot learning
 ```
 
+### 🎬 Project demos
+
+<p align="center">
+  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/bitbot2/README.md#1-draw-a-path-opencv--aruco"><img src="assets/thumbnails/bitbot2_opencv.jpg" width="49%" alt="BITBot2: draw a path, the robot follows it" /></a>
+  <a href="https://github.com/kk-Dollar/Projects_demo/blob/main/bitbot2/README.md#2-autonomous-navigation-nav2-in-gazebo"><img src="assets/thumbnails/bitbot2_nav2.jpg" width="49%" alt="BITBot2: SLAM + Nav2 autonomous navigation" /></a>
+</p>
+
+<p align="center"><a href="https://github.com/kk-Dollar/Projects_demo"><b>▶ All demos</b></a></p>
+
 ### 🧭 What I work on
 
 | | Area | What I do |
